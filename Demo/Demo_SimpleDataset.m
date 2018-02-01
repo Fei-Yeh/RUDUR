@@ -5,7 +5,7 @@ addpath(genpath('../'));
 
 %% Choose dataset parameters
 background=0; % 0:without background --- 1:with background
-sigma=1; % Noise
+sigma=0.5; % Noise
 
 %% Data Info
 nbRow=50;
